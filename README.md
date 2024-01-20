@@ -1,6 +1,5 @@
-### Hi there 👋
 # 💫 About Me:
-Aspiring Machine Learning Enthusiast | 
+Aspiring Machine Learning Enthusiast 
 
 
 # 💻 Tech Stack:
